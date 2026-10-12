@@ -76,7 +76,7 @@ Inteligencia Artificial · Arquitectura de Software avanzada
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andermc10/Andermc10/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/Andermc10/Andermc10/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" style="width: 100%; max-height: 120px;" />
 </p>
 
 <p align="center">
