@@ -1,6 +1,6 @@
-<!-- BANNER PRINCIPAL CON LA IMAGEN NOCTURNA -->
+<!-- BANNER PRINCIPAL CON TU IMAGEN -->
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_SUBIDA_A_GITHUB" alt="Banner Principal" width="100%" style="border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/d510fc05-ec4d-4f5e-9275-9baf34b38a97" alt="Banner Principal" width="100%" style="border-radius: 8px;" />
 </p>
 
 <!-- TÍTULO DINÁMICO Y CONTACTO -->
