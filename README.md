@@ -1,84 +1,148 @@
+<!-- BANNER ORIGINAL -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d510fc05-ec4d-4f5e-9275-9baf34b38a97" width="100%" alt="Ander — Software Developer" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&background=050B1400&center=true&vCenter=true&width=750&height=55&lines=FULL+STACK+SOFTWARE+DEVELOPER;BUILDING+BUSINESS+APPLICATIONS;EXPLORING+ARTIFICIAL+INTELLIGENCE;SPEC-DRIVEN+DEVELOPMENT" alt="Full Stack Developer — animated text" />
+</p>
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### 01 — SOBRE MÍ / ABOUT ME
-Desarrollador de Software Full Stack de Medellín, Colombia. Construyo aplicaciones web y soluciones empresariales con enfoque en backend, frontend, inteligencia artificial e integración de sistemas.
-Full Stack Software Developer based in Medellín, Colombia, focused on modern web apps, backend systems, and AI integration.
+## 01 / PERFIL · PROFILE
 
-### 02 — TECH STACK
-**BACKEND**
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark" alt=".NET and Node.js" />
+Desarrollador de software junior con experiencia práctica en aplicaciones web y multiplataforma, soluciones empresariales e integración de servicios.
+
+Junior software developer with hands-on experience in web and cross-platform applications, enterprise solutions, and service integrations.
+
+**Ubicación / Location:** Medellín, Colombia
+
+## 02 / TECH STACK
+
+**BACKEND & LANGUAGES**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,js,ts,python&theme=dark" alt="C#, .NET, Node.js, Express, JavaScript, TypeScript and Python" />
+</p>
 
 **FRONTEND & MOBILE**
-<img src="https://skillicons.dev/icons?i=angular,react,flutter,ts,js&theme=dark" alt="Angular React Flutter TypeScript JavaScript" />
 
-**DATABASES & TOOLS**
-<img src="https://img.shields.io/badge/SQL_Server-080D18?style=flat-square&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Playwright-080D18?style=flat-square&logo=playwright&logoColor=38BDF8" alt="Playwright" />
-<img src="https://img.shields.io/badge/RabbitMQ-080D18?style=flat-square&logo=rabbitmq&logoColor=38BDF8" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Claude_Code-080D18?style=flat-square&logo=claude&logoColor=38BDF8" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenTelemetry-080D18?style=flat-square&logo=opentelemetry&logoColor=38BDF8" alt="OpenTelemetry" />
-<img src="https://img.shields.io/badge/Cursor-080D18?style=flat-square&logo=cursor&logoColor=38BDF8" alt="Cursor" />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,flutter,html,css,tailwind,bootstrap&theme=dark" alt="Angular, React, Flutter, HTML, CSS, Tailwind and Bootstrap" />
+</p>
 
-**DEVELOPMENT APPROACH**
-Spec-Driven Development · AI-assisted workflows
+**DATABASES & ORM**
 
-### 03 — PROYECTOS / PROJECTS
-* **ASTROSTAR:** Aplicación web y móvil para apoyar la gestión de una fundación de fútbol femenino *(React, Node.js, Flutter)*.
-* **ENTERPRISE SOFTWARE:** Desarrollo de aplicaciones empresariales, omnicanalidad, integraciones y flujos seguros *(C#, .NET, Angular, SQL)*.
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker&theme=dark" alt="PostgreSQL, MySQL, Supabase, Prisma and Docker" />
+</p>
 
-### 04 — CURRENTLY LEARNING
-Inteligencia Artificial · Arquitectura de Software avanzada
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-0B1220?style=flat&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-0B1220?style=flat&logo=dotnet&logoColor=38BDF8" alt="Entity Framework Core" />
+</p>
+
+**DEVELOPER TOOLS**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-0B1220?style=for-the-badge&logo=claude&logoColor=38BDF8" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenCode-0B1220?style=for-the-badge&logo=opencode&logoColor=38BDF8" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Cursor-0B1220?style=for-the-badge&logo=cursor&logoColor=38BDF8" alt="Cursor" />
+</p>
+
+**ENGINEERING**
+
+`Spec-Driven Development` · `Clean Architecture` · `CQRS` · `Microservices` · `Webhooks` · `Git`
+
+## 03 / EXPERIENCE
+
+### INTAP S.A.S. — Software Development
+
+*Apr 2026 – Oct 2026*
+
+- Desarrollo y mantenimiento de funcionalidades frontend y backend.
+- Participación en soluciones de omnicanalidad y gestión de procesos empresariales.
+- Integración de servicios, mensajería, webhooks y notificaciones.
+- Trabajo colaborativo con Git, Bitbucket y herramientas de desarrollo asistido por IA.
+
+### ASTROSTAR — Web & Mobile Application
+
+Proyecto colaborativo para la gestión administrativa de una fundación de fútbol femenino.
+
+`React` `Node.js` `Flutter` `Relational Databases`
+
+## 04 / LEARNING
+
+**Artificial Intelligence · Cloud Computing · Software Architecture**
+
+Formación complementaria en IA, cloud computing, redes y ciberseguridad. Inglés en proceso de fortalecimiento.
 
 </td>
-<td width="38%" valign="top">
+
+<td width="35%" valign="top">
+
 <div align="center">
 
-### ANDERSON MURILLO
-**DESARROLLADOR DE SOFTWARE FULL STACK**
-<sub>📍 Medellín, Colombia</sub>
+# ANDERSON
+# MURILLO
+
+**DESARROLLADOR DE SOFTWARE JUNIOR**
+
+<sub>FULL STACK SOFTWARE DEVELOPER</sub>
+
+<br />
+
+📍 **MEDELLÍN, COLOMBIA**
 
 <br />
 
 <a href="https://www.linkedin.com/in/anderson-murillo-castrill%C3%B3n-b88446341/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
 </a>
+
 <br /><br />
+
 <a href="mailto:andermuri94@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
 </a>
+
 <br /><br />
+
 <a href="https://github.com/Andermc10">
-<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
 </a>
+
+<br /><br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Andermc10&show_icons=true&hide_border=true&rank_icon=github&bg_color=050B14&title_color=38BDF8&icon_color=38BDF8&text_color=DCEBFF" width="100%" alt="GitHub statistics" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andermc10&show_icons=true&hide_border=true&bg_color=050B14&title_color=38BDF8&icon_color=38BDF8&text_color=DCEBFF&rank_icon=github" width="100%" alt="GitHub statistics" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andermc10&layout=compact&hide_border=true&bg_color=050B14&title_color=38BDF8&text_color=DCEBFF&langs_count=5" width="100%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andermc10&layout=compact&hide_border=true&langs_count=5&bg_color=050B14&title_color=38BDF8&text_color=DCEBFF" width="100%" alt="Most used programming languages" />
 
 </div>
 </td>
 </tr>
 </table>
 
-### 05 — CONTRIBUTION SYSTEM
+---
+
+## 05 / CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andermc10&bg_color=050B14&color=DCEBFF&line=38BDF8&point=FFFFFF&area=true&area_color=12345A&hide_border=true&custom_title=CODE%20%2F%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Andermc10&hide_border=true&background=050B14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A8" width="100%" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andermc10/Andermc10/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" style="width: 100%; max-height: 120px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:102A43,100:0E7490&height=4&section=footer" width="100%" alt="" />
 </p>
 
 <p align="center">
-  <sub>BUILD SYSTEMS · SOLVE PROBLEMS · KEEP EVOLVING</sub>
+  <sub>DESIGN · ENGINEER · BUILD · EVOLVE</sub>
 </p>
