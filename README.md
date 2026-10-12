@@ -129,16 +129,16 @@
   <img width="90%" src="https://streak-stats.demolab.com?user=Andermc10&hide_border=true&background=050B14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A8" alt="Racha de contribuciones de GitHub / GitHub contribution streak" />
 </p>
 
-## 🌌 CONTRIBUTION GRAPH · GRÁFICA DE ACTIVIDAD
+## 📈 ACTIVIDAD EN GITHUB · GITHUB ACTIVITY
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andermc10&bg_color=050B14&color=DCEBFF&line=38BDF8&point=FFFFFF&area=true&area_color=102F52&hide_border=true&custom_title=ANDER%20%2F%20GITHUB%20ACTIVITY&radius=8" alt="Gráfica de actividad de GitHub / GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andermc10&bg_color=0B1220&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Actividad de GitHub" width="100%" />
 </p>
 
-## 🏆 GITHUB ACHIEVEMENTS · LOGROS
-
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Andermc10&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="Reconocimientos de GitHub / GitHub profile trophies" />
+  <a href="https://github.com/Andermc10">
+    <img src="https://img.shields.io/badge/VER%20MI%20GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Ver perfil de GitHub" />
+  </a>
 </p>
 
 ---
