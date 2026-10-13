@@ -83,17 +83,6 @@ Formación complementaria en inteligencia artificial, cloud computing, redes y c
 
 **English:** B1 — actualmente fortaleciendo mis habilidades.
 
-<!-- LARGE CONTRIBUTION STREAK AT BOTTOM LEFT -->
-<br /><br />
-
-## 05 / CONTRIBUTION STREAK
-
-<img
-  src="https://streak-stats.demolab.com?user=Andermc10&hide_border=true&background=050B14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A8"
-  width="100%"
-  alt="GitHub contribution streak"
-/>
-
 </td>
 
 <!-- ==================== RIGHT COLUMN ==================== -->
@@ -166,6 +155,17 @@ Formación complementaria en inteligencia artificial, cloud computing, redes y c
 </td>
 </tr>
 </table>
+
+<!-- ==================== FULL-WIDTH CONTRIBUTION STREAK ==================== -->
+## 05 / CONTRIBUTION STREAK
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Andermc10&hide_border=true&background=050B14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A8"
+    width="100%"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
