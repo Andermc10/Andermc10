@@ -1,4 +1,4 @@
-<!-- BANNER ORIGINAL -->
+<!-- ==================== ORIGINAL BANNER ==================== -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d510fc05-ec4d-4f5e-9275-9baf34b38a97" width="100%" alt="Ander — Software Developer" />
 </p>
@@ -7,15 +7,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&background=050B1400&center=true&vCenter=true&width=750&height=55&lines=FULL+STACK+SOFTWARE+DEVELOPER;BUILDING+BUSINESS+APPLICATIONS;EXPLORING+ARTIFICIAL+INTELLIGENCE;SPEC-DRIVEN+DEVELOPMENT" alt="Full Stack Developer — animated text" />
 </p>
 
+<!-- ==================== MAIN TWO-COLUMN LAYOUT ==================== -->
 <table>
 <tr>
+
+<!-- ==================== LEFT COLUMN ==================== -->
 <td width="65%" valign="top">
 
 ## 01 / PERFIL · PROFILE
 
 Desarrollador de software junior con experiencia práctica en aplicaciones web y multiplataforma, soluciones empresariales e integración de servicios.
 
-Junior software developer with hands-on experience in web and cross-platform applications, enterprise solutions, and service integrations.
+Junior software developer with hands-on experience in web and cross-platform applications, business solutions, and service integrations.
 
 **Ubicación / Location:** Medellín, Colombia
 
@@ -33,18 +36,17 @@ Junior software developer with hands-on experience in web and cross-platform app
   <img src="https://skillicons.dev/icons?i=angular,react,flutter,html,css,tailwind,bootstrap&theme=dark" alt="Angular, React, Flutter, HTML, CSS, Tailwind and Bootstrap" />
 </p>
 
-**DATABASES & ORM**
+**DATABASES, ORM & INFRASTRUCTURE**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker&theme=dark" alt="PostgreSQL, MySQL, Supabase, Prisma and Docker" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-0B1220?style=flat&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-0B1220?style=flat&logo=dotnet&logoColor=38BDF8" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-0B1220?style=flat&logo=dotnet&logoColor=38BDF8" alt="Entity Framework Core" />
 </p>
 
-**DEVELOPER TOOLS**
+**AI-POWERED DEVELOPMENT**
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-0B1220?style=for-the-badge&logo=claude&logoColor=38BDF8" alt="Claude Code" />
@@ -52,7 +54,7 @@ Junior software developer with hands-on experience in web and cross-platform app
   <img src="https://img.shields.io/badge/Cursor-0B1220?style=for-the-badge&logo=cursor&logoColor=38BDF8" alt="Cursor" />
 </p>
 
-**ENGINEERING**
+**ENGINEERING & PRACTICES**
 
 `Spec-Driven Development` · `Clean Architecture` · `CQRS` · `Microservices` · `Webhooks` · `Git`
 
@@ -77,10 +79,24 @@ Proyecto colaborativo para la gestión administrativa de una fundación de fútb
 
 **Artificial Intelligence · Cloud Computing · Software Architecture**
 
-Formación complementaria en IA, cloud computing, redes y ciberseguridad. Inglés en proceso de fortalecimiento.
+Formación complementaria en inteligencia artificial, cloud computing, redes y ciberseguridad.
+
+**English:** B1 — actualmente fortaleciendo mis habilidades.
+
+<!-- LARGE CONTRIBUTION STREAK AT BOTTOM LEFT -->
+<br /><br />
+
+## 05 / CONTRIBUTION STREAK
+
+<img
+  src="https://streak-stats.demolab.com?user=Andermc10&hide_border=true&background=050B14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A8"
+  width="100%"
+  alt="GitHub contribution streak"
+/>
 
 </td>
 
+<!-- ==================== RIGHT COLUMN ==================== -->
 <td width="35%" valign="top">
 
 <div align="center">
@@ -114,31 +130,44 @@ Formación complementaria en IA, cloud computing, redes y ciberseguridad. Inglé
   <img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
 </a>
 
-<br /><br /><br />
+<br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andermc10&show_icons=true&hide_border=true&rank_icon=github&bg_color=050B14&title_color=38BDF8&icon_color=38BDF8&text_color=DCEBFF" width="100%" alt="GitHub statistics" />
+<!-- GITHUB STATISTICS -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Andermc10&show_icons=true&hide_border=true&rank_icon=github&bg_color=050B14&title_color=38BDF8&icon_color=38BDF8&text_color=DCEBFF"
+  width="100%"
+  alt="GitHub statistics"
+/>
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andermc10&layout=compact&hide_border=true&langs_count=5&bg_color=050B14&title_color=38BDF8&text_color=DCEBFF" width="100%" alt="Most used programming languages" />
+<!-- MOST USED LANGUAGES -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andermc10&layout=compact&hide_border=true&langs_count=5&bg_color=050B14&title_color=38BDF8&text_color=DCEBFF"
+  width="100%"
+  alt="Most used programming languages"
+/>
+
+<br /><br />
+
+<!-- ANIMATION: DISPLAYED ONLY ONCE -->
+<img
+  src="./assets/man_img_2.gif"
+  width="100%"
+  alt="Digital glitch figure animation"
+/>
+
+<br />
+
+<sub>◈ SYSTEMS · CODE · INNOVATION ◈</sub>
 
 </div>
+
 </td>
 </tr>
 </table>
 
----
-
-## 05 / CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andermc10&bg_color=050B14&color=DCEBFF&line=38BDF8&point=FFFFFF&area=true&area_color=12345A&hide_border=true&custom_title=CODE%20%2F%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Andermc10&hide_border=true&background=050B14&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A8" width="100%" alt="GitHub contribution streak" />
-</p>
-
+<!-- ==================== FOOTER ==================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:102A43,100:0E7490&height=4&section=footer" width="100%" alt="" />
 </p>
