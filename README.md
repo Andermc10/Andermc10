@@ -18,7 +18,7 @@
 
 Desarrollador de software junior con experiencia práctica en aplicaciones web y multiplataforma, soluciones empresariales e integración de servicios.
 
-Junior software developer with hands-on experience in web and cross-platform applications, business solutions, and service integrations.
+Software developer with hands-on experience in web and cross-platform applications, business solutions, and service integrations.
 
 **Ubicación / Location:** Medellín, Colombia
 
@@ -73,6 +73,8 @@ Junior software developer with hands-on experience in web and cross-platform app
 
 Proyecto colaborativo para la gestión administrativa de una fundación de fútbol femenino.
 
+🔗 [fundacionmanuelavanegas-47c9b.web.app](https://fundacionmanuelavanegas-47c9b.web.app)
+
 `React` `Node.js` `Flutter` `Relational Databases`
 
 ## 04 / LEARNING
@@ -93,7 +95,7 @@ Formación complementaria en inteligencia artificial, cloud computing, redes y c
 # ANDERSON
 # MURILLO
 
-**DESARROLLADOR DE SOFTWARE JUNIOR**
+**DESARROLLADOR DE SOFTWARE**
 
 <sub>FULL STACK SOFTWARE DEVELOPER</sub>
 
